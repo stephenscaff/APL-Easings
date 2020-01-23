@@ -4,12 +4,12 @@ A collection of cubic-bezier easings for the Alexa Platform Language (APL), base
 
 ### Adding to APL Project
 
-You can import all Easings as an [APL package](https://developer.amazon.com/pt-BR/docs/alexa/alexa-presentation-language/apl-package.html), or simply add the ones you'll need within the [Resources](https://developer.amazon.com/pt-BR/docs/alexa/alexa-presentation-language/apl-resources.html) block of your APL doc.
+You can import all Easings as an [APL package](https://developer.amazon.com/pt-BR/docs/alexa/alexa-presentation-language/apl-package.html), or simply add the ones you'll need within the [Resources](https://developer.amazon.com/pt-BR/docs/alexa/alexa-presentation-language/apl-resources.html                                                                 ) block of your APL doc.
 
 
 ### Importing as a Package
 
-Copy the file [apl-easings.json](https://github.com/stephenscaff/APL-Easings/apl-easings.json) to some publicly stored location, and import into APL as a package:
+Copy the file [apl-easings.json](https://github.com/stephenscaff/APL-Easings/blob/master/apl-easings.json) to some publicly stored location, and import into APL as a package:
 
 ```
 {
